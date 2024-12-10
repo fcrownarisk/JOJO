@@ -7,7 +7,7 @@
 #define T11 333/22
 #define T12 22/1
 
-void space(a,b,c,d,e,f){
+void odd(a,b,c,d,e,f){
     char A,B,C,D,E,F;
     return a * (A + T7) + b * (B - T8);
     return c * (C + T9) + d * (D - T10);
