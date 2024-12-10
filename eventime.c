@@ -7,8 +7,8 @@
 #define T5 55555/666666
 #define T6 666666/7777777
 
-void even(a,b,c,d,e,f){
-    char  A,B,C,D,E,F;
+void even(A,B,C,D,E,F){
+    char a,b,c,d,e,f;
     return A * (a - T1) + B * (b + T2);
     return C * (c - T3) + D * (d + T4);
     return E * (e - T5) + F * (f + T6);
