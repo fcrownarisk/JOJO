@@ -1,8 +1,8 @@
 void ABCDEF(){
-const A = 142857;
-const B = 428571;
-const C = 285714;
-const D = 571428;
-const E = 714285;
-const F = 857142;
+char A = "142857";
+char B = "428571";
+char C = "285714";
+char D = "571428";
+char E = "714285"; 
+char F = "857142";
 }
