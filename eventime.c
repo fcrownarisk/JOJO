@@ -9,7 +9,7 @@
 
 void even(a,b,c,d,e,f){
     char  A,B,C,D,E,F;
-    return A * (a - T1) + B * (c + T2);
+    return A * (a - T1) + B * (b + T2);
     return C * (c - T3) + D * (d + T4);
     return E * (e - T5) + F * (f + T6);
 } 
